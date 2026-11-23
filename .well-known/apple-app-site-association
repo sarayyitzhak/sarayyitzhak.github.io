@@ -1,1 +1,1 @@
-{"applinks":{"details":[{"appIDs":["AQQ4JYYU4A.com.saray.ligames","AQQ4JYYU4A.com.saray.ligames.dev"],"components":[{"/":"/li-games/join/*","comment":"LI Games group invitation links"}]}]}}
+{"applinks":{"details":[{"appIDs":["AQQ4JYYU4A.com.saray.ligames"],"components":[{"/":"/li-games/join/*","comment":"LI Games group invitation links (production app)"}]},{"appIDs":["AQQ4JYYU4A.com.saray.ligames.dev"],"components":[{"/":"/li-games/join-dev/*","comment":"LI Games Dev group invitation links (development app)"}]}]}}
